@@ -7,4 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slbyml&hide=less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://komarev.com/ghpvc/?username=slbyml&color=ff69b4&label=PV+Since+2016-07-07)
+![](https://komarev.com/ghpvc/?username=slbyml&color=ff69b4&label=PV+Since+2021-01-01)
