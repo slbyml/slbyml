@@ -4,7 +4,7 @@
 
 [![slbyml's github stats](https://github-readme-stats.vercel.app/api?username=slbyml&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slbyml&hide=less&layout=compact&locale=cn)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slbyml&hide=less&layout=compact&locale=cn)](https://slbyml.github.io/)
 
 
 ![](https://komarev.com/ghpvc/?username=slbyml&color=ff69b4&label=PV+Since+2021-01-01)
